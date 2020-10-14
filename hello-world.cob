@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. PROGCOB01.
+       PROGRAM-ID. PROGCOB02.
       ***************************************************
       * AREA DE COMENTARIOS - REMARKS
       * AUTHOR = MONTIVAL JUNIOR

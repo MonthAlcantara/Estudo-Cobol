@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. PROGCOB01.
+       PROGRAM-ID. PROGCOB03.
       ***************************************************
       * AREA DE COMENTARIOS - REMARKS
       * AUTHOR = MONTIVAL JUNIOR
@@ -17,5 +17,5 @@
        77 WRK-NOME PIC X(20) VALUE SPACES.
        PROCEDURE DIVISION.
            ACCEPT WRK-DATA FROM DATE YYYYMMDD.
-           DISPLAY 'DATA = ' WRK-DIA ' DE ' WRK-MES ' DE ' WRK-ANO
+           DISPLAY 'DATA = ' WRK-DIA ' DO ' WRK-MES ' DE ' WRK-ANO
            STOP RUN.
